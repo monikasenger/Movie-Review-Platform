@@ -9,8 +9,8 @@ Built with **React (frontend)**, **Node.js + Express (backend)**, and **MongoDB 
 
 ## 🚀 Deployment
 
-- **Frontend (Render):** [fontend]()  
-- **Backend (Render):** [backend]()
+- **Frontend (Render):** [fontend](https://movie-review-platform-laud.onrender.com)  
+- **Backend (Render):** [backend](https://movie-review-platform-backend.onrender.com)
 
 ---
 ## 🚀 Features
